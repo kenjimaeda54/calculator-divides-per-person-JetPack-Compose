@@ -1,12 +1,11 @@
-# Caluladora para dividir as depessas no restaurante
-Pequena calculadora para divider as despesas , pode inserir o valor total, a taxa que deu e quantidade de pessaos que ira dividir
-
+# Calculadora para dividir as despesas no restaurante
+Pequena calculadora para divide as despesas, pode inserir o valor total, a taxa de serviço e quantidade de pessoas que irão dividir
 
 ## Feature
 - Aprendi a manipular campos de input
-- Apliquei uma logica para melhorar experiencia do usuario , usando opção de fechar o teclado assim que inserir o valor 
+- Apliquei uma lógica para melhorar experiencia do usuário, usando opção de fechar o teclado assim que inserir o valor 
 - Em keyboardAction tenho acesso ao input
-- Para usar icones precisamos instalar a dependencia androidx.compose.material:material-icons-extended:$compose_ui_version
+- Para usar ícones precisamos instalar a dependência androidx.compose.material:material-icons-extended:$compose_ui_version
 - ImeAction e o botão do teclado canto inferior esquerdo
 
 ```kotlin
